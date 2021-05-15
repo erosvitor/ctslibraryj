@@ -9,8 +9,8 @@ The documentation is available by GitHub Pages.
 The project uses the following technologies:
 
 * Java 11
-* Apache Maven 3.6.3
-* JUnit 4.12
+* Apache Maven
+* JUnit
 * IDE Eclipse
 
 ## Functions
