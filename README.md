@@ -1,7 +1,7 @@
 # CTSLibraryJ
 
 ## Description
-The **CTSLibraryJ** is a project that shows how create a function library in Java. The project contains unit tests and automatic generation of documentation using Javadoc.
+Project that shows how create a function library in Java. The project contains unit tests and automatic generation of documentation using Javadoc.
 
 The documentation is available by GitHub Pages.
 
